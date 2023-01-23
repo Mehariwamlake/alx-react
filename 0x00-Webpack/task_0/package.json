@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.3"
+  },
+  "devDependencies": {
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1"
+  },
+  "name": "task_0",
+  "description": "React start up npm install webpack webpack-cli --save-dev --save-exact npm install jquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
