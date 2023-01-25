@@ -14,6 +14,13 @@ function App() {
         <p>
         Login to access the full dashboard
         </p>
+        <form>
+          <label htmlFor='email'>Email:</label>
+          <input type='email' name='email'></input>
+          <label htmlFor='password'>Password:</label>
+          <input type='password' name='password'></input>
+          <button>Ok</button>
+        </form>
       </div>
 
       <div className='App-footer'>
