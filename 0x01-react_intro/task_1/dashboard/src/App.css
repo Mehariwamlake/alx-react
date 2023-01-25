@@ -1,0 +1,26 @@
+.App{
+  height: 100vh;
+  max-width: 100vw;
+  
+}
+.App-header{
+  font-size: 1.4rem;
+  color: red;
+  display: flex;
+  align-items: center;
+  border-bottom: 3px solid red;
+}
+.App-header img{
+  width: 200px;
+}
+.App-body{
+font-size: 1rem;
+padding: 2em;
+border-bottom: 3px solid red;
+height: 45%;
+}
+.App-footer{
+  padding: 1.2rem;
+  text-align: center;
+  font-style: italic;
+}
